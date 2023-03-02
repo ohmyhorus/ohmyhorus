@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ohmyhorus or Alex (I have a somewhat unpronounceable name, sorry)
+- 👋 Hi, I’m @ohmyhorus or Alex (I'm ukrainian but I live in Milan)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css and I'm at the gates of the javascript labyrinth :D
 - 💞️ I’m looking to collaborate on, some project, but I'm a newbie, for now.
